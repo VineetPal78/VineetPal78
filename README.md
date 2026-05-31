@@ -29,7 +29,3 @@
 - Machine Learning
 - Feature Engineering
 - Model Evaluation
-
-## Connect With Me
-- LinkedIn: (https://www.linkedin.com/in/vineet-pal-30b54a374/)
-- Email: [vineetpal7834@gmail.com]
