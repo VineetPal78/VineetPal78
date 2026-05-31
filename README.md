@@ -31,5 +31,5 @@
 - Model Evaluation
 
 ## Connect With Me
-- LinkedIn: [VineetPal](https://www.linkedin.com/in/vineet-pal-30b54a374/)
+- LinkedIn: (https://www.linkedin.com/in/vineet-pal-30b54a374/)
 - Email: [vineetpal7834@gmail.com]
