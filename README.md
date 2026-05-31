@@ -3,23 +3,33 @@
 📊 Data Analyst passionate about transforming raw data into actionable insights.
 
 ## Skills
-- SQL
-- Python
-- Power BI
-- Excel
 - Data Visualization
 - Statistics
+- Probability
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Plotly
+- Power BI
+- Tableau
+- SQL
+- Excel
 
 ## Projects
-🔹 Sales Dashboard Analysis
-🔹 Customer Churn Prediction
-🔹 E-commerce Data Analysis
-🔹 HR Analytics Dashboard
+🔹 Big Basket Sales Analysis
+🔹 Loan Approval Analysis
+🔹 Vehicle Insurance EDA Analysis
+🔹 Zomato Analysis
+🔹 AI Job Market Dashboard
 
 ## Currently Learning
+- Data Science
 - Machine Learning
-- Advanced SQL
-- Cloud Analytics
+- Feature Engineering
+- Model Evaluation
 
 ## Connect With Me
 - LinkedIn: [VineetPal](https://www.linkedin.com/in/vineet-pal-30b54a374/)
+- Email: [vineetpal7834@gmail.com]
