@@ -3,10 +3,10 @@
 📊 Data Analyst passionate about transforming raw data into actionable insights.
 
 ## Skills
-- Data Visualization
+- SQL
+- Python
 - Statistics
 - Probability
-- Python
 - NumPy
 - Pandas
 - Matplotlib
@@ -14,8 +14,8 @@
 - Plotly
 - Power BI
 - Tableau
-- SQL
 - Excel
+- Data Visualization
 
 ## Projects
 🔹 Big Basket Sales Analysis
